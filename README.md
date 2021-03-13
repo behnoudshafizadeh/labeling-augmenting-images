@@ -17,7 +17,7 @@
 
 
 ## Applying Augmentation 
-> run below `.py` files in your terminal:
+> run below `.py` files  in your terminal:
 ```
 for applying rain in iamges:
 python rainy-augment.py
